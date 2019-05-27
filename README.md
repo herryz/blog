@@ -12,12 +12,12 @@
 
 - 【自然语言处理】
 
-  - [RasaX 初探](./nlp/rasaX.md)
+  - [RasaX 初探](./nlp/chatbot简介.md)
 
   - 聊天机器人
 
 - 【Leetcode算法题】
-  - Leetcode专题仓库
+  - [Two Sum](./leetcode/Two Sum.md)
 
 - 【积累总结】
 
