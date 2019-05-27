@@ -12,7 +12,7 @@
 
 - 【自然语言处理】
 
-  - [RasaX 初探](./nlp/chatbot简介.md)
+  - [chatbot简介](./nlp/chatbot简介.md)
 
   - 聊天机器人
 
